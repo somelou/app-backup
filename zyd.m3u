@@ -1,6 +1,6 @@
-#EXTM3U url-tvg="https://epg.aptv.app/pp.xml.gz"
+#EXTM3U url-tvg="https://epg.aptv.app/pp.xml.gz,https://epg.aptv.app/pp.xml.gz,https://epg.aptv.app/xml"
 #EXT-X-APP APTV
-#EXT-X-APTV-TYPE remote
+#EXT-X-APTV-TYPE merge
 #EXT-X-SUB-URL https://gh.aptv.app/https://raw.githubusercontent.com/somelou/app-backup/refs/heads/master/zyd.m3u
 
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" group-title="央视",CCTV1综合
@@ -136,6 +136,7 @@ http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236274/index.m3u8
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236215/index.m3u8
 #EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://live.fanmingming.cn/tv/内蒙古卫视.png" group-title="卫视",内蒙古卫视
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236270/index.m3u8
+#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://live.fanmingming.cn/tv/内蒙古卫视.png" group-title="卫视",内蒙古卫视
 http://101.35.240.114:88/live.php?id=内蒙古卫视
 #EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://live.fanmingming.cn/tv/三沙卫视.png" group-title="卫视",三沙卫视
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235392/671452326.smil/index.m3u8?fmt=ts2hls
