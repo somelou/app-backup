@@ -86,8 +86,6 @@ http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236242/index.m3u8
 https://event.pull.hebtv.com:443/live/live101.m3u8
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" group-title="卫视",江苏卫视
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236221/index.m3u8
-#EXTINF:-1 tvg-id="苏州卫视" tvg-name="苏州卫视-4K" group-title="高清",苏州卫视-4K
-https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
 #EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" group-title="卫视",山东卫视
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236159/index.m3u8
 #EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" group-title="卫视",安徽卫视
@@ -166,6 +164,8 @@ https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
 #EXTINF:-1 tvg-id="浙江经济" tvg-name="浙江经济" tvg-logo="https://live.fanmingming.cn/tv/浙江经济.png" group-title="地方台",浙江经济
 https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+#EXTINF:-1 tvg-id="河南梨园" tvg-name="河南梨园" tvg-logo="https://live.fanmingming.cn/tv/河南梨园.png" group-title="其他",河南梨园
+http://183.196.87.176:880/hls/57/index.m3u8
 #EXTINF:-1 tvg-id="金华教育科技" tvg-name="金华教育科技" tvg-logo="https://live.fanmingming.cn/tv/金华教育科技.png" group-title="地方台",金华教育科技
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221234568/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="金华新闻综合" tvg-name="金华新闻综合" tvg-logo="https://live.fanmingming.cn/tv/金华新闻综合.png" group-title="地方台",金华新闻综合
@@ -207,8 +207,7 @@ http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235445/1/index.m3u8
 #EXTINF:-1 tvg-id="温州新闻综合" tvg-name="温州新闻综合" tvg-logo="https://live.fanmingming.cn/tv/温州新闻综合.png" group-title="地方台",温州新闻综合
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236328/1/index.m3u8?fmt=ts2hls
 
-#EXTINF:-1 tvg-id="河南梨园" tvg-name="河南梨园" tvg-logo="https://live.fanmingming.cn/tv/河南梨园.png" group-title="其他",河南梨园
-http://183.196.87.176:880/hls/57/index.m3u8
+
 #EXTINF:-1 tvg-id="CETV-1" tvg-name="CETV-1" tvg-logo="https://live.fanmingming.cn/tv/CETV1.png" group-title="其他",CETV-1
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228285/42329224.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="CETV-2" tvg-name="CETV-2" tvg-logo="https://live.fanmingming.cn/tv/CETV2.png" group-title="其他",CETV-2
@@ -283,14 +282,11 @@ http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230092/index.m3u8
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230103/index.m3u8
 #EXTINF:-1 tvg-id="CATCHPLAY电影" tvg-name="CATCHPLAY电影" tvg-logo="https://live.fanmingming.cn/tv/CATCHPLAY电影.png" group-title="其他",电影
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236204/index.m3u8
-#EXTINF:-1 tvg-id="移动高清电视" tvg-name="移动高清电视" tvg-logo="https://live.fanmingming.cn/tv/移动高清电视.png" group-title="其他",移动高清电视
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229434/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="咪咕直播" tvg-name="咪咕直播" tvg-logo="https://live.fanmingming.cn/tv/咪咕直播.png" group-title="其他",咪咕直播
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232657/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="四海钓鱼" tvg-name="四海钓鱼" tvg-logo="https://live.fanmingming.cn/tv/四海钓鱼.png" group-title="其他",四海钓鱼
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228662/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="茶" tvg-name="茶" tvg-logo="https://live.fanmingming.cn/tv/茶.png" group-title="其他",茶频道
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229404/1/index.m3u8?fmt=ts2hls
+
 
 #EXTINF:-1 tvg-id="爱幼教" tvg-name="爱幼教" tvg-logo="https://live.fanmingming.cn/tv/爱幼教.png" group-title="儿童",爱幼教
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235622/1/index.m3u8?fmt=ts2hls
