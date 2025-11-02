@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://epg.aptv.app/p p.xml.gz,https://epg.aptv.app/pp.xml.gz,https://epg.aptv.app/xml,https://gh.aptv.app/https://raw.githubusercontent.com/Li-Xingyu/ZJ_IPTV_EPG/refs/heads/main/epg.xml"
+#EXTM3U url-tvg="https://epg.aptv.app/pp.xml.gz,https://epg.aptv.app/xml,http://epg.51zmt.top:8000/e.xml,https://gh.aptv.app/https://raw.githubusercontent.com/Li-Xingyu/ZJ_IPTV_EPG/refs/heads/main/epg.xml"
 #EXT-X-APP APTV
 #EXT-X-APTV-TYPE remote
 #EXT-X-SUB-URL https://gh.aptv.app/https://raw.githubusercontent.com/somelou/app-backup/refs/heads/master/zyd.m3u
