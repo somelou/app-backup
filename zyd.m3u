@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://epg.aptv.app/pp.xml.gz"
 #EXT-X-APP APTV
 #EXT-X-APTV-TYPE remote
-#EXT-X-SUB-URL https://gh.aptv.app/https://raw.githubusercontent.com/somelou/app-backup/refs/heads/master/yd.m3u
+#EXT-X-SUB-URL https://gh.aptv.app/https://raw.githubusercontent.com/somelou/app-backup/refs/heads/master/zyd.m3u
 
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" group-title="央视",CCTV1综合
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236222/index.m3u8
@@ -172,13 +172,13 @@ http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221234568/1/index.m3u8
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221234612/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="金华公共" tvg-name="金华公共" tvg-logo="https://live.fanmingming.cn/tv/金华公共.png" group-title="地方台",金华公共
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221234615/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="宁波-1" tvg-name="宁波-1" group-title="地方台",宁波-1
+#EXTINF:-1 tvg-id="NBTV-1" tvg-name="宁波-1" group-title="地方台",宁波-1
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236607/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="宁波-2" tvg-name="宁波-2" group-title="地方台",宁波-2
+#EXTINF:-1 tvg-id="NBTV-2" tvg-name="宁波-2" group-title="地方台",宁波-2
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236613/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="宁波-3" tvg-name="宁波-3" group-title="地方台",宁波-3
+#EXTINF:-1 tvg-id="NBTV-3" tvg-name="宁波-3" group-title="地方台",宁波-3
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236611/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="宁波-4" tvg-name="宁波-4" group-title="地方台",宁波-4
+#EXTINF:-1 tvg-id="NBTV-4" tvg-name="宁波-4" group-title="地方台",宁波-4
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236609/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="嘉兴新闻综合" tvg-name="嘉兴新闻综合" tvg-logo="https://live.fanmingming.cn/tv/嘉兴新闻综合.png" group-title="地方台",嘉兴新闻综合
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236594/1/index.m3u8?fmt=ts2hls
@@ -207,16 +207,7 @@ http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235445/1/index.m3u8
 #EXTINF:-1 tvg-id="温州新闻综合" tvg-name="温州新闻综合" tvg-logo="https://live.fanmingming.cn/tv/温州新闻综合.png" group-title="地方台",温州新闻综合
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236328/1/index.m3u8?fmt=ts2hls
 
-#EXTINF:-1 tvg-id="NBTV-1" tvg-name="NBTV-1" tvg-logo="https://live.fanmingming.cn/tv/NBTV1.png" group-title="地方台",NBTV-1
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235593/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="NBTV-2" tvg-name="NBTV-2" tvg-logo="https://live.fanmingming.cn/tv/NBTV2.png" group-title="地方台",NBTV-2
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235608/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="NBTV-3" tvg-name="NBTV-3" tvg-logo="https://live.fanmingming.cn/tv/NBTV3.png" group-title="地方台",NBTV-3
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235612/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="NBTV-4" tvg-name="NBTV-4" tvg-logo="https://live.fanmingming.cn/tv/NBTV4.png" group-title="地方台",NBTV-4
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235597/1/index.m3u8?fmt=ts2hls
-
-#EXTINF:-1 tvg-id="梨园频道" tvg-name="梨园频道" tvg-logo="https://live.fanmingming.cn/tv/梨园频道.png" group-title="其他",梨园频道
+#EXTINF:-1 tvg-id="河南梨园" tvg-name="河南梨园" tvg-logo="https://live.fanmingming.cn/tv/河南梨园.png" group-title="其他",河南梨园
 http://183.196.87.176:880/hls/57/index.m3u8
 #EXTINF:-1 tvg-id="CETV-1" tvg-name="CETV-1" tvg-logo="https://live.fanmingming.cn/tv/CETV1.png" group-title="其他",CETV-1
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228285/42329224.smil/index.m3u8?fmt=ts2hls
